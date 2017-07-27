@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900|Merriweather+Sans:300,300i,400,400i,700,700i,800,800i');
+
+html{
+  font-size: 16px;
+    background-color: lightgray;
+    font-family:  "Catamaran";
+  }
+
+  h1 {
+    font-size: 2.5rem;
+    font-weight: 800;
+    line-height: 1.2;
+    color: blue;
+    text-align: center;
+  }
+
+  h3 {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.1;
+    color: blue;
+  }
+
+  h4 {
+    font-size: 1.4rem;
+    font-weight: 500;
+    line-height: normal;
+  }
+
+  body {
+    font-family: "Catamaran", sans-serif;
+    line-height: 1.4em;
+    margin-left: 1rem;
+  }
+  button:hover {
+    color: gold;
+    background-color: blueviolet;
+  }
